@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">广东省网上办事大厅</string>
+	<string name="version_name">v1.1 for Android</string>
+    <!-- 导航相关 -->
+    <string name="message_progress_def">加载中。。。</string>
+    <string name="navi_1">网上办事</string>
+    <string name="navi_2">部门服务</string>
+    <string name="navi_3">我的</string>
+    
+    <string name="copy_right">版本号:　v1.1\n©2014 广东省网上办事大厅 版权所有</string>
+    <string name="title">广东省网上办事大厅</string>
+    <string name="website">www.gdbs.gov.cn</string>
+    <string name="personal_affairs">个人办事</string>
+    <string name="company_affairs">企业办事</string>
+    
+    <string name="province_name">广东省</string>
+    <string name="departments_choose_tip">请选择主管部门:</string>
+    <string name="verification_title">部门服务</string>
+    <string name="zhuguan_bumen">主管部门: </string>
+    <string name="shixiang_name">事项名称: </string>
+    
+    <string name="tourism_name">广东省旅游局</string>
+    <string name="affairs_tip">请选择要办理的事项:</string>
+    <string name="tourism_affaire_name">大陆居民赴台旅游名单表审验</string>
+    
+    <string name="shengban">申办</string>
+    <string name="jindu">进度</string>
+    <string name="jieguo">结果</string>
+    <string name="zixun">咨询</string>
+    <string name="pingyi">评议</string>
+    
+    <string name="shengbanren_info">企业/经办人信息</string>
+    <string name="xiangguan_cailiao">相关材料</string>
+    <string name="dengjibiao">《大陆居民赴台湾地区旅游团名单表》备案登记表</string>
+    
+    <string name="paizhao">拍照</string>
+    <string name="xiangce">从手机相册选择</string>
+    <string name="cancle">取消</string>
+    
+    
+    <!-- 我的页面 -->
+    <string name="login_title">我的帐户</string>
+    <string name="login_username">用户名</string>
+    <string name="login_password">密码</string>
+    
+    <!--  个人办理事项 开始-->
+    <string name="personal_affairs_1">生育收养</string>
+    <string name="personal_affairs_2">户籍 </string>
+    <string name="personal_affairs_3">教育</string>
+    <string name="personal_affairs_4">医疗</string>
+    <string name="personal_affairs_5">出入境</string>
+    <string name="personal_affairs_6">社会救助</string>
+    <string name="personal_affairs_7">交通</string>
+    <string name="personal_affairs_8">文化体育</string>
+    <string name="personal_affairs_9">知识产权</string>
+    <string name="personal_affairs_10">兵役</string>
+    <string name="personal_affairs_11">就业 </string>
+    <string name="personal_affairs_12">纳税</string>
+    <string name="personal_affairs_13">住房</string>
+    <string name="personal_affairs_14">司法公证</string>
+    <string name="personal_affairs_15">死亡殡葬</string>
+    <string name="personal_affairs_18">社保</string>
+    <string name="personal_affairs_19">婚姻</string>
+    <string name="personal_affairs_20">职业资格</string>
+    <string name="personal_affairs_21">消费维权</string>
+    <string name="personal_affairs_17">民族宗教</string>
+    <string name="personal_affairs_16">专项资金</string>
+    <string name="personal_affairs_22">其他</string>
+    <!--  个人办理事项 结束-->
+    
+    <!--  企业办理事项 开始-->
+    <string name="company_affairs_1">设立变更</string>
+    <string name="company_affairs_2">年检年审 </string>
+    <string name="company_affairs_3">财务税务</string>
+    <string name="company_affairs_4">准营准办</string>
+    <string name="company_affairs_5">司法公证</string>
+    <string name="company_affairs_6">建设管理</string>
+    <string name="company_affairs_7">劳动保障</string>
+    <string name="company_affairs_8">人力资源</string>
+     <string name="company_affairs_9">文物保护</string>
+    <string name="company_affairs_10">新闻广电</string>
+    <string name="company_affairs_11">交通运输</string>
+    <string name="company_affairs_12">医疗卫生</string>
+    <string name="company_affairs_13">专项资金</string>
+    <string name="company_affairs_14">立项审批</string>
+    <string name="company_affairs_15">资质认证</string>
+    <string name="company_affairs_16">知识产权</string>
+    <string name="company_affairs_17">金融投资</string>
+    <string name="company_affairs_18">对外交流</string>
+    
+    <string name="company_affairs_21">质量检查</string>
+    <string name="company_affairs_22">安全防护</string>
+    <string name="company_affairs_23">环保绿化</string>
+    <string name="company_affairs_24">土地房产</string>
+    <string name="company_affairs_20">农林牧渔</string>
+    <string name="company_affairs_19">水利水务</string>
+    <string name="company_affairs_25">破产注销</string>
+    <string name="company_affairs_26">其他</string>
+    <!--  个人办理事项 结束-->
+</resources> 
